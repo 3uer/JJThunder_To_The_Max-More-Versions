@@ -1,11 +1,17 @@
 # JJThunder_To_The_Max-More-Versions
 This repository have versions JJThunder 1.21.1-1.21.11
 
-# IF YOU HAVE 1.21.11
-just use 1.21.9 ver it will work well
+# IF you have Minecraft versuon 1.21.11
 
-# if you want build your own
-1. create folder with _JJThunder_To_The_Max (JJT.zip)_ with all python scripts
+just use 1.21.9 ver and JJT will work well
+
+# Building Windows/Linux
+# Before Start!
+1. Install Python https://www.python.org/downloads/
+
+ Now Lets Start!
+ 
+1. create folder with _JJThunder_To_The_Max_ `(JJT.zip)` with all python scripts
 
 
 
@@ -18,3 +24,11 @@ just use 1.21.9 ver it will work well
 
    
 <img width="477" height="281" alt="Untitled2_20260630155919" src="https://github.com/user-attachments/assets/4db10e20-7d56-45b4-88d3-353a7f588eb4" />
+
+3. in cmd write `python 1_21_1_to_1_21_2.py JJT.zip`
+you will get `JJT_1_21_2.zip` (or any name file)
+`python 1_21_3_to_1_21_4.py JJT_1_21_2.zip`
+`python 1_21_6_to_1_21_7.py JJT_1_21_2.zip_1_21_4.zip`
+So ig you understand how build!
+
+But if someting went wrong or you dont undestand me you can contact me in discord: 3uer
