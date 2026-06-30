@@ -39,7 +39,8 @@ Before you begin, make sure you have Python installed on your system:
    `python 1_21_6_to_1_21_7.py JJT_1_21_2.zip_1_21_4.zip`
 
 Follow this logic to build any intermediate version you need!
- Contact & Support
+ 
+### Contact & Support
 
 If something went wrong, or you have any questions, feel free to reach out:
 
