@@ -26,9 +26,13 @@ just use 1.21.9 ver and JJT will work well
 <img width="477" height="281" alt="Untitled2_20260630155919" src="https://github.com/user-attachments/assets/4db10e20-7d56-45b4-88d3-353a7f588eb4" />
 
 3. in cmd write `python 1_21_1_to_1_21_2.py JJT.zip`
+4. 
 you will get `JJT_1_21_2.zip` (or any name file)
+
 `python 1_21_3_to_1_21_4.py JJT_1_21_2.zip`
+
 `python 1_21_6_to_1_21_7.py JJT_1_21_2.zip_1_21_4.zip`
+
 So ig you understand how build!
 
 But if someting went wrong or you dont undestand me you can contact me in discord: 3uer
